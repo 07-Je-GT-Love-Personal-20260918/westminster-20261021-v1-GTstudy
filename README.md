@@ -53,7 +53,9 @@ python -m http.server 8765 --directory public
 
 GitHub Pages 与 Surge 在推送 `main` 后构建部署，也可在 Actions 手动重跑。Surge 的认证只保存在仓库加密 Secrets，名称为 `SURGE_LOGIN`、`SURGE_TOKEN`，不写入源文件。
 
-Vercel 使用 `abners-projects-6f97a189/westminster-20261022-v1-gtstudy` 项目；生产部署前先运行 `python build.py`，然后 `vercel deploy --prod`。Git 集成的连接状态见部署记录。
+Vercel 使用 `abners-projects-6f97a189/westminster-20261022-v1-gtstudy` 项目；生产部署前先运行 `python build.py`，然后 `vercel deploy --prod`。本版生产站已成功发布，但 Vercel 的 GitHub 仓库连接被平台拒绝，尚未启用其自动 Git 部署；当前通过本机已登录的 CLI 更新。GitHub Pages 与 Surge 的自动部署均已运行成功。
+
+三份普世信经另提供 `creed-apostles.html`、`creed-nicene.html`、`creed-athanasian.html` 独立干净阅读页；全经故事支持逐站推演。`verify-public.yml` 可手动从公开网络校验三个站点是否允许匿名访问，并逐文件与同一构建比较。
 
 ## 版本与恢复
 

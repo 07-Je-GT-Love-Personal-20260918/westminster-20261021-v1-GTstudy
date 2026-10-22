@@ -15,6 +15,7 @@ _qa.html
 qa-results.json
 screenshots/
 refine.py
+deployment-check.json
 
 .vercel
 .env*.local

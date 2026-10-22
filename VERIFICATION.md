@@ -40,4 +40,8 @@ OPC 威敏正文用于主题与编号核验；已明确美国修订版本与历�
 
 三个站点的发布结果、远程仓库地址与恢复方法记在 README；版本标签 `v1.0.0-20261022` 对应首版。发布内容只来自 `public/`。
 
+GitHub Pages、Surge 的 GitHub Actions 已成功运行，Vercel 的生产部署返回 Ready。三个站点均已收到匿名 HTTP 200 响应；持续核验可运行 `Verify three public deployments`。本机与 CI 曾存在换行差异，已统一为 LF 并加入跨平台相同字节检查。
+
+Vercel Git 集成连接被平台拒绝，本版该平台使用已登录 CLI 部署；未宣称其自动 Git 部署已经启用。
+
 账号凭据、认证目录、环境文件、整份附件与提取的整本书文本不进入 Git 追踪。Surge CI 认证置于加密 Secrets；无凭据进入网站或公开源码。
