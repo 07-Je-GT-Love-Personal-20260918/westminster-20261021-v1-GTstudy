@@ -44,4 +44,8 @@ GitHub Pages、Surge 的 GitHub Actions 已成功运行，Vercel 的生产部署
 
 Vercel Git 集成连接被平台拒绝，本版该平台使用已登录 CLI 部署；未宣称其自动 Git 部署已经启用。
 
+最终公开网络核验通过：[GitHub Actions run 39703269968](https://github.com/07-Je-GT-Love-Personal-20260918/westminster-20261021-v1-GTstudy/actions/runs/39703269968)。三个平台各校验 9 个文件，共 27 项均为匿名 HTTP 200，且与同一构建逐字节相同；包括全部脚本、数据、样式、离线版、版本标记和三份独立信经页。此核验在 2026-10-22 完成，不能保证未来服务状态不变。
+
+已在公开 Vercel 页面再次验证 33／107／196 项、三个独立信经入口、动态故事下一站及桌面无横向溢出。
+
 账号凭据、认证目录、环境文件、整份附件与提取的整本书文本不进入 Git 追踪。Surge CI 认证置于加密 Secrets；无凭据进入网站或公开源码。

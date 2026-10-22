@@ -16,6 +16,8 @@ qa-results.json
 screenshots/
 refine.py
 deployment-check.json
+*.zip
+release-notes.md
 
 .vercel
 .env*.local
