@@ -1,0 +1,316 @@
+{
+  "places": [
+    {
+      "id": "london",
+      "name": "伦敦",
+      "icon": "♜",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "year": "1643–1647",
+      "region": "europe",
+      "focus": "战争中的教会改革",
+      "setting": "议会召集会议，原拟修订国教教义，后转向共同的认信、敬拜与治理文件。英格兰长老派、独立派与其他立场并存。",
+      "cause": "要统一的并非一套术语，而是教会实际怎样教导、敬拜与治理。",
+      "result": "告白确立教义结构，两种要理分别承担基础与进深教导。政治联盟没有保证英格兰永久实行长老制。",
+      "memory": "议会与内战 → 改革秩序 → 三份互补准则",
+      "refs": [
+        [
+          "OPC：会议与历史版本",
+          "https://opc.org/preface.html"
+        ],
+        [
+          "OPC：两种要理的形成",
+          "https://www.opc.org/nh.html?article_id=315"
+        ]
+      ]
+    },
+    {
+      "id": "edinburgh",
+      "name": "爱丁堡",
+      "icon": "⚑",
+      "lat": 55.9533,
+      "lng": -3.1883,
+      "year": "1560 / 1647–1648",
+      "region": "europe",
+      "focus": "有自身历史的苏格兰教会",
+      "setting": "苏格兰宗教改革早于威敏会议。其代表参与伦敦会议但没有投票权，长老制背景使治理与跨国合一成为重要问题。",
+      "cause": "跨国合作面对国王、议会与教会权柄的张力；不能把英格兰议会决定直接当作苏格兰教会决定。",
+      "result": "苏格兰总会于1647年采纳告白，1648年采纳两种要理。采纳与原始写作须在时间线上分开。",
+      "memory": "既有改革 → 参与合作 → 教会正式采纳",
+      "refs": [
+        [
+          "OPC：采纳时间与英国处境",
+          "https://opc.org/preface.html"
+        ],
+        [
+          "OPC：苏格兰代表",
+          "https://www.opc.org/os.html?article_id=661&pfriendly=Y"
+        ]
+      ]
+    },
+    {
+      "id": "dort",
+      "name": "多德雷赫特",
+      "icon": "⚓",
+      "lat": 51.8133,
+      "lng": 4.6901,
+      "year": "1618–1619",
+      "region": "europe",
+      "focus": "国际大会面对救恩争论",
+      "setting": "多特位于荷兰共和国的城市网络。改革宗争论与公共秩序相连，大会又有跨国代表参加，不能仅视为私人学者辩论。",
+      "cause": "抗辩派争论触及恩典如何拯救、拣选根据、赎罪目的、重生与坚忍。",
+      "result": "多特信经是针对特定争论的教义裁断，不是涵盖所有教义的短版系统神学；五项教义以四个正文单元呈现。",
+      "memory": "争议 → 经文辨析 → 正面教导与驳误",
+      "refs": [
+        [
+          "CCI：多特信经导言",
+          "https://www.ccifellowship.org/books/book-of-praise/confessions/canons-of-dort"
+        ],
+        [
+          "CanRC：改革宗历史",
+          "https://canrc.org/history"
+        ]
+      ]
+    },
+    {
+      "id": "heidelberg",
+      "name": "海德堡",
+      "icon": "▥",
+      "lat": 49.3988,
+      "lng": 8.6724,
+      "year": "1563",
+      "region": "europe",
+      "focus": "宫廷、大学、学校与家庭",
+      "setting": "这里属于当时神圣罗马帝国的普法尔茨领邦，而非现代统一德国。领邦支持、大学教导与牧养需要共同构成要理问答的处境。",
+      "cause": "教义若不能进入讲台、课堂与家庭，就难成为教会共同的语言。",
+      "result": "要理以生死中属于基督的安慰开篇，并以愁苦、拯救、感恩组织教导；52主日安排使学习成为持续节奏。",
+      "memory": "教养需要 → 问答体 → 年复一年的信仰语言",
+      "refs": [
+        [
+          "CCI：海德堡要理问答导言",
+          "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism"
+        ]
+      ]
+    },
+    {
+      "id": "geneva",
+      "name": "日内瓦",
+      "icon": "✧",
+      "lat": 46.2044,
+      "lng": 6.1432,
+      "year": "16世纪",
+      "region": "europe",
+      "focus": "跨语言的教导与教会联络",
+      "setting": "法语改革宗的教导重镇；其教义与教会秩序经人员、文本和教会往来影响其他地区。影响并不等于每地照搬一个城市的制度。",
+      "cause": "逃亡、训练、翻译与印刷让教会能越过政治边界互相帮助。",
+      "result": "改革宗是跨地域的认信传统；当地政治、语言与牧养问题，仍决定文本如何进入实际教会生活。",
+      "memory": "教导与出版 → 跨境传播 → 本地教会扎根",
+      "refs": [
+        [
+          "CanRC：改革宗形成的区域",
+          "https://canrc.org/history"
+        ],
+        [
+          "CanRC：法国与日内瓦的秩序影响",
+          "https://canrc.org/church-order"
+        ]
+      ]
+    },
+    {
+      "id": "valenciennes",
+      "name": "瓦朗谢讷",
+      "icon": "✝",
+      "lat": 50.3571,
+      "lng": 3.5235,
+      "year": "1567",
+      "region": "europe",
+      "focus": "认信的真实代价",
+      "setting": "今天属于法国；在德·布雷的历史处境中，须放回低地地区与哈布斯堡统治的地图理解。“比利时”不能直接套成今日国界。",
+      "cause": "信徒被指控为破坏秩序者，公开陈明信仰，也陈明在合法事务上的顺服。",
+      "result": "德·布雷于1567年殉道。信条传承提醒人，认信不只是阅读偏好，也可能涉及生命、身份与群体归属。",
+      "memory": "受逼迫 → 公开告白 → 守信而非自保",
+      "refs": [
+        [
+          "CCI：比利时信条历史导言",
+          "https://ccifellowship.org/index.php/books/book-of-praise/confessions/the-belgic-confession"
+        ],
+        [
+          "法国新教博物馆：低地地区与瓦朗谢讷",
+          "https://museeprotestant.org/en/notice/protestantism-in-the-low-countries/"
+        ]
+      ]
+    },
+    {
+      "id": "wittenberg",
+      "name": "维滕贝格",
+      "icon": "▤",
+      "lat": 51.8667,
+      "lng": 12.65,
+      "year": "1517起",
+      "region": "europe",
+      "focus": "共同改教背景，须辨分支",
+      "setting": "路德的改革推动十六世纪西欧宗教重组；路德宗与改革宗随后形成不同教会传统。",
+      "cause": "因恩典、借信心而非人的功德得救，是改教的重要核心；圣礼与教会秩序等问题仍产生实质差别。",
+      "result": "把所有新教信条统称改革宗会失去历史精度；也不能把威敏三份准则说成1517年当场写成。",
+      "memory": "改教共同背景 ≠ 所有新教立场相同",
+      "refs": [
+        [
+          "CanRC：宗教改革的分支",
+          "https://canrc.org/history"
+        ]
+      ]
+    },
+    {
+      "id": "jerusalem",
+      "name": "耶路撒冷",
+      "icon": "✦",
+      "lat": 31.778,
+      "lng": 35.235,
+      "year": "公元1世纪",
+      "region": "east",
+      "focus": "救赎成全与万民见证",
+      "setting": "福音书、使徒行传将受死、复活与五旬节置于真实的犹太和罗马处境中。现代地图帮助定位，不能代替第一世纪历史。",
+      "cause": "教会的认信先回应神在基督里所完成的作为，而不是先创造一套宗派身份。",
+      "result": "从耶路撒冷开始的见证走向万民。信条的权威始终从属于使徒见证所记载的圣经。",
+      "memory": "历史中的基督 → 使徒见证 → 教会认信",
+      "refs": [
+        [
+          "经文索引：路24；徒1–2；威告1、8",
+          "https://opc.org/wcf.html"
+        ]
+      ]
+    },
+    {
+      "id": "nicaea",
+      "name": "尼西亚／伊兹尼克",
+      "icon": "◎",
+      "lat": 40.429,
+      "lng": 29.721,
+      "year": "325",
+      "region": "east",
+      "focus": "圣子是谁，决定救恩是谁所成全",
+      "setting": "会议城市在今天土耳其境内。古代帝国地理与现代土耳其国界属于不同历史层次。",
+      "cause": "若圣子只是最高受造物，教会向他敬拜及靠他得生命便失去根基。",
+      "result": "与父同质守护圣子的真神性；通常诵读的尼西亚—君士坦丁堡信经与381年的信经传统相连，不能把所有后续字句都倒放回325年。",
+      "memory": "基督论争议 → 同质认信 → 敬拜与救恩的根基",
+      "refs": [
+        [
+          "CCI：尼西亚信经",
+          "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed"
+        ]
+      ]
+    },
+    {
+      "id": "constantinople",
+      "name": "君士坦丁堡／伊斯坦布尔",
+      "icon": "◈",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "year": "381",
+      "region": "east",
+      "focus": "三一认信的巩固",
+      "setting": "位于欧亚交界。城市后来更名，不表示古代会议具有现代国家身份；现代地名只用于定位。",
+      "cause": "教会需要更清楚承认圣灵的神性及其在三一中的地位。",
+      "result": "三一信仰既涉及神是谁，也涉及谁配受敬拜。西方后来使用的和子句，须与381年历史层次区别。",
+      "memory": "圣灵不是能力 → 真神位格 → 同受敬拜",
+      "refs": [
+        [
+          "CCI：尼西亚信经与历史导言",
+          "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed"
+        ]
+      ]
+    },
+    {
+      "id": "lethbridge",
+      "name": "莱斯布里奇",
+      "icon": "⌂",
+      "lat": 49.6956,
+      "lng": -112.8451,
+      "year": "1950",
+      "region": "world",
+      "focus": "迁徙使认信跨海落地",
+      "setting": "二战后的荷兰移民将其教会生活带到加拿大。语言、学校、家庭与敬拜的重建，使认信不只停留在欧洲书本中。",
+      "cause": "移民需要可以共同敬拜并按所认信教义生活的群体。",
+      "result": "加拿大改革宗教会记载其首个堂会于1950年4月16日在此设立。这是一个宗派的具体历史，不代表所有北美改革宗都源于同一批移民。",
+      "memory": "迁徙 → 建堂与教养 → 认信传承",
+      "refs": [
+        [
+          "CanRC：北美迁徙与建堂",
+          "https://canrc.org/history"
+        ]
+      ]
+    },
+    {
+      "id": "losangeles",
+      "name": "洛杉矶地区",
+      "icon": "文",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "year": "当代阅读坐标",
+      "region": "world",
+      "focus": "中文处境中的欧陆认信",
+      "setting": "恩约教会以中文世界的教会建立、福音与牧养为使命，并说明其URCNA归属。点位是洛杉矶城市参照，不是教会建筑精确坐标。",
+      "cause": "翻译需要传达同一信仰，也须避免把旧欧洲政治文化不加分辨地复制到今天。",
+      "result": "跨文化的忠心既非改变福音，也非把一种民族习惯变成神的命令；应让圣经同时检验传统与当代文化。",
+      "memory": "同一福音 → 清楚翻译 → 本地牧养",
+      "refs": [
+        [
+          "洛杉矶改革宗·恩约教会",
+          "https://www.ccreformed.org/"
+        ]
+      ]
+    }
+  ],
+  "cultures": [
+    {
+      "region": "低地地区",
+      "icon": "⚓",
+      "pressure": "逼迫、跨城市教会联系、后来的教义争论",
+      "form": "公开信条 + 大会教义裁断",
+      "logic": "公开说明信什么；在争论中界定什么不能含糊。",
+      "compare": "1561年的南部处境与1618年的荷兰共和国不能混成同一政治场景。",
+      "refs": [
+        [
+          "CCI：比利时信条",
+          "https://ccifellowship.org/index.php/books/book-of-praise/confessions/the-belgic-confession"
+        ],
+        [
+          "CCI：多特信经",
+          "https://www.ccifellowship.org/books/book-of-praise/confessions/canons-of-dort"
+        ]
+      ]
+    },
+    {
+      "region": "普法尔茨领邦",
+      "icon": "▥",
+      "pressure": "教会、学校与家庭需要共同教学语言",
+      "form": "可问可答、按主日安排的要理",
+      "logic": "先抓住属于基督的安慰，再展开愁苦、拯救、感恩。",
+      "compare": "亲切的牧养文体并不意味着教义较浅；安慰本身有三一与救赎的根基。",
+      "refs": [
+        [
+          "CCI：海德堡要理问答",
+          "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism"
+        ]
+      ]
+    },
+    {
+      "region": "英格兰与苏格兰",
+      "icon": "♜",
+      "pressure": "内战、跨国联盟、教义与治理改革",
+      "form": "体系告白 + 两种不同深度的要理",
+      "logic": "教会须共同宣认，也须让初学者与成熟信徒都能受教。",
+      "compare": "政治局势解释写作处境，不能自动证明会议每项判断正确。",
+      "refs": [
+        [
+          "OPC：历史前言",
+          "https://opc.org/preface.html"
+        ],
+        [
+          "OPC：两种要理",
+          "https://www.opc.org/nh.html?article_id=315"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 # 圣约与荣耀 · 威斯敏斯特三大准则学习图谱
 
-**主题：Westminster and Continental Reformed · 2026-10-22 · v1.0.0 · GTstudy**
+**主题：Westminster and Continental Reformed · 2026-10-23 · v1.1.0 · GTstudy**
 
-创建于 2026-10-21，首版发布于 2026-10-22（Asia/Taipei）。仓库日期保留项目启动日；部署域名标示首版发布日期。
+创建于 2026-10-21，首版发布于 2026-10-22，历史地图与阅读优化版发布于 2026-10-23（Asia/Taipei）。仓库日期保留项目启动日；原有域名继续使用，页面与版本标记显示最新版本。
 
 ## 三个公开阅读地址
 
@@ -11,6 +11,8 @@
 | GitHub Pages | https://07-je-gt-love-personal-20260918.github.io/westminster-20261021-v1-GTstudy/ |
 | Surge | https://westminster-20261022-v1-gtstudy.surge.sh |
 | Vercel | https://westminster-20261022-v1-gtstudy.vercel.app |
+
+v1.1版本命名入口：Surge `https://westminster-20261023-v1-1-gtstudy.surge.sh`；Vercel `https://westminster-20261023-v1-1-gtstudy.vercel.app`。现有地址继续兼容，恢复源码以Git标签为准。
 
 源代码：https://github.com/07-Je-GT-Love-Personal-20260918/westminster-20261021-v1-GTstudy
 
@@ -23,6 +25,8 @@
 - 七篇主题深读、神学导航图、336 张主动回忆卡、遮字背诵、设备语音朗读。
 - 可隐藏的详细目录、全文搜索、默认平铺、明暗主题、字号调整、打印与单文件离线版。
 - 学习进度仅保存在当前浏览器；不同域名与设备不自动同步。
+
+v1.1新增：三张本地地理示意图、12城历史文化叙事、Esri/OSM双底图与失败退路、右下角快捷导航、语义重点标记、可保存的摘录笔记及备份恢复。笔记与学习进度按浏览器和域名单独保存；笔记可导出后在另一设备或域名导入。学习卡的掌握标记独立于笔记备份。
 
 ## 文本与范围说明
 
@@ -47,7 +51,7 @@ python -m http.server 8765 --directory public
 
 打开 http://127.0.0.1:8765 。直接打开 `public/study-offline.html` 可离线阅读，外部字体不可用时自动使用设备字体。
 
-`content.json` 是 33+107+196 条释义的唯一维护源；`deepdives.json` 为主题文章；`reading.json` 为六份阅读文本；`cci-snapshots.json` 记录三份普世信经的网页文字快照；`index.html`、`app.js`、`style.css` 管理结构、交互与样式。构建输出在 `public/`，不需提交生成目录。
+`content.json` 是 33+107+196 条释义的唯一维护源；`deepdives.json` 为主题文章；`reading.json` 为六份阅读文本；`cci-snapshots.json` 记录三份普世信经的网页文字快照。`atlas-data.json` 保存历史文化与城市来源，`geo-outlines.json` 是地图轮廓，`atlas_build.py` 在构建时内嵌SVG；`atlas.js` 按需接入网络地图。`reader.js` 和 `reader.css` 提供导航、笔记与长文阅读优化。地图组件与数据许可见 `THIRD_PARTY.md`。构建输出在 `public/`，不需提交生成目录。
 
 ## 持续部署
 
@@ -59,7 +63,7 @@ Vercel 使用 `abners-projects-6f97a189/westminster-20261022-v1-gtstudy` 项目�
 
 ## 版本与恢复
 
-`v1.0.0-20261022` 为首版标签。每次更新应记录内容变化、校验结果及三平台部署状态，再新增版本标签，避免覆盖旧标签。
+`v1.0.0-20261022` 为首版标签，`v1.1.0-20261023` 为历史地图与阅读优化版。每次更新记录内容变化、校验结果及三平台部署状态，再新增版本标签，避免覆盖旧标签。
 
 恢复查看旧版本：
 

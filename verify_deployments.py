@@ -8,7 +8,7 @@ urls={
 }
 def check(item):
  name,base=item;result={'platform':name,'url':base,'checks':[]}
- for filename in ['index.html','app.js','data.js','style.css','study-offline.html','version.json','creed-apostles.html','creed-nicene.html','creed-athanasian.html']:
+ for filename in ['index.html','app.js','data.js','style.css','reader.css','atlas.js','reader.js','vendor/leaflet.js','vendor/leaflet.css','vendor/LEAFLET-LICENSE.txt','study-offline.html','version.json','creed-apostles.html','creed-nicene.html','creed-athanasian.html']:
   try:
    with urllib.request.urlopen(base+filename,timeout=20) as r:body=r.read();status=r.status
    match=body==(root/'public'/filename).read_bytes()

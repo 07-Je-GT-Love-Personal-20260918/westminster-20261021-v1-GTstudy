@@ -20,6 +20,8 @@ jobs:
           python-version: '3.11'
       - run: python build.py
       - run: node --check app.js
+      - run: node --check atlas.js
+      - run: node --check reader.js
       - run: node --check data.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

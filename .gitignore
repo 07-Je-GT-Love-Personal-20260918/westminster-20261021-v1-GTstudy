@@ -18,6 +18,9 @@ refine.py
 deployment-check.json
 *.zip
 release-notes.md
+tooling/
+__pycache__/
+upgrade_v11.py
 
 .vercel
 .env*.local
