@@ -12,7 +12,7 @@
 | Surge | https://westminster-20261022-v1-gtstudy.surge.sh |
 | Vercel | https://westminster-20261022-v1-gtstudy.vercel.app |
 
-v1.1版本命名入口：Surge `https://westminster-20261023-v1-1-gtstudy.surge.sh`；Vercel `https://westminster-20261023-v1-1-gtstudy.vercel.app`。现有地址继续兼容，恢复源码以Git标签为准。
+v1.1版本命名入口：Surge `https://westminster-20261023-v1-1-gtstudy.surge.sh`。现有地址继续兼容，恢复源码以Git标签为准。
 
 源代码：https://github.com/07-Je-GT-Love-Personal-20260918/westminster-20261021-v1-GTstudy
 
