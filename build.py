@@ -29,6 +29,9 @@ for i,slug in enumerate(['apostles','nicene','athanasian']):
     (out/f'creed-{slug}.html').write_text(clean,encoding='utf-8',newline='\n')
 (out/'version.json').write_text(json.dumps({'topic':'Westminster and Continental Reformed','version':'v1.1.0','started':'2026-10-21','published':'2026-10-23','chapters':33,'shorter':107,'larger':196,'atlasPlaces':12,'localMaps':3},indent=2),encoding='utf-8',newline='\n')
 shutil.copytree(p/'vendor',out/'vendor',dirs_exist_ok=True)
+for asset in (out/'vendor').rglob('*'):
+ if asset.suffix in {'.js','.css','.txt'}:
+  asset.write_bytes(asset.read_bytes().replace(b'\r\n',b'\n'))
 (out/'.nojekyll').touch()
 snapshots=json.loads((p/'cci-snapshots.json').read_text(encoding='utf-8'))
 for i,s in enumerate(snapshots):
