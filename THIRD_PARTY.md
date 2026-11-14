@@ -5,3 +5,5 @@
 - 可选网络底图：Esri World Street Map 与 OpenStreetMap，按用户点击加载，保留服务归属说明。网络图像不在此仓库中打包，不承诺所有国家、地区或网络永久可用。
 - OpenStreetMap： https://www.openstreetmap.org/copyright ；瓦片使用政策：https://operations.osmfoundation.org/policies/tiles/ 。不预取整片地图，不批量离线下载底图，尊重浏览器与服务缓存。
 - 历史文化注释为原创学习辅助，城市叙事逐条附来源。示意图与现代地图分层，避免以今天的国界解释古代政治实体。
+
+新增在线来源：[Esri 地形图](https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer)、[Esri 影像](https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer)、[NASA EOSDIS GIBS](https://nasa-gibs.github.io/gibs-api-docs/access-basics/)（Blue Marble）。按需请求，不批量下载；各图层在界面显示署名。

@@ -3,12 +3,12 @@ import urllib.request,hashlib,pathlib,concurrent.futures,json
 root=pathlib.Path(__file__).parent
 urls={
  'GitHub Pages':'https://07-je-gt-love-personal-20260918.github.io/westminster-20261021-v1-GTstudy/',
- 'Surge':'https://westminster-20261022-v1-gtstudy.surge.sh/',
+ 'Surge':'https://westminster-20261114-v1-2-gtstudy.surge.sh/',
  'Vercel':'https://westminster-20261022-v1-gtstudy.vercel.app/'
 }
 def check(item):
  name,base=item;result={'platform':name,'url':base,'checks':[]}
- for filename in ['index.html','app.js','data.js','style.css','reader.css','atlas.js','reader.js','vendor/leaflet.js','vendor/leaflet.css','vendor/LEAFLET-LICENSE.txt','study-offline.html','version.json','creed-apostles.html','creed-nicene.html','creed-athanasian.html']:
+ for filename in ['index.html','app.js','data.js','style.css','reader.css','atlas.js','reader.js','vendor/leaflet.js','vendor/leaflet.css','vendor/LEAFLET-LICENSE.txt','study-offline.html','version.json','creed-apostles.html','creed-nicene.html','creed-athanasian.html','media/creed-scenes.mp4','media/creed-scenes.jpg','media/creed-scenes.vtt']:
   try:
    with urllib.request.urlopen(base+filename,timeout=20) as r:body=r.read();status=r.status
    match=body==(root/'public'/filename).read_bytes()

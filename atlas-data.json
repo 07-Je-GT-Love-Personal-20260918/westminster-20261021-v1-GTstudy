@@ -259,6 +259,78 @@
           "https://www.ccreformed.org/"
         ]
       ]
+    },
+    {
+      "id": "rome",
+      "name": "罗马",
+      "icon": "◉",
+      "lat": 41.903,
+      "lng": 12.496,
+      "year": "约2–5世纪",
+      "region": "east",
+      "focus": "洗礼中的认信",
+      "setting": "拉丁西方的洗礼传统以简明的三一结构训练慕道者。",
+      "cause": "受洗者需要能够亲口宣认自己所信的神，以及基督成就的救恩。",
+      "result": "古罗马信式是后来使徒信经的重要背景；今日通行句式经过长期传承。",
+      "memory": "受洗前学习 → 当众宣认 → 教会持续背诵",
+      "refs": [
+        [
+          "CCI：使徒信经",
+          "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed"
+        ],
+        [
+          "CanRC：文本与历史",
+          "https://canrc.org/apostles-creed"
+        ]
+      ]
+    },
+    {
+      "id": "antioch",
+      "name": "安提阿",
+      "icon": "✦",
+      "lat": 36.202,
+      "lng": 36.16,
+      "year": "公元1世纪",
+      "region": "east",
+      "focus": "福音跨越族群",
+      "setting": "罗马治下的叙利亚安提阿是多族群城市。徒11记载分散的门徒来到此地。",
+      "cause": "外邦人如何同享应许？徒15与加2显示，教会既要处理割礼要求，也要让共同餐桌体现所传的福音。",
+      "result": "徒13记载安提阿教会差派巴拿巴和扫罗。外邦人因基督同属一个家，并以圣洁和相爱回应恩典。",
+      "memory": "分散 → 聚集 → 差派；一位主，一个家",
+      "refs": [
+        [
+          "CCI：教会的发展过程",
+          "https://ccifellowship.org/books/flame-of-truth/1"
+        ],
+        [
+          "OPC：信仰告白第25章",
+          "https://opc.org/wcf.html"
+        ]
+      ]
+    },
+    {
+      "id": "leiden",
+      "name": "莱顿",
+      "icon": "⚖",
+      "lat": 52.16,
+      "lng": 4.49,
+      "year": "1603–1618",
+      "region": "lowlands",
+      "focus": "从大学讲席到教会争议",
+      "setting": "荷兰共和国中的莱顿大学同时面对教学、教会与公共秩序的争论。",
+      "cause": "阿米念与戈马鲁斯围绕救恩展开争论；学界的争论后来进入教会与共和国政治。",
+      "result": "多特会议的教义裁断不能由政治因果代替：还需逐项追问信心是否为拣选根据、重生怎样使人真诚相信。",
+      "memory": "讲席提出分歧 → 教会辨析 → 大会作答",
+      "refs": [
+        [
+          "莱顿大学图书馆：阿米念论辩",
+          "https://dutchrevolt.library.universiteitleiden.nl/nederlands/personen/a/dutch_personen_a_arminius-introduction/"
+        ],
+        [
+          "CCI：多特信经导言",
+          "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort"
+        ]
+      ]
     }
   ],
   "cultures": [
