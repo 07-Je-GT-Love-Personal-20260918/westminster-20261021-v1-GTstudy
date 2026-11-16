@@ -4,7 +4,7 @@ root=pathlib.Path(__file__).parent
 urls={
  'GitHub Pages':'https://07-je-gt-love-personal-20260918.github.io/westminster-20261021-v1-GTstudy/',
  'Surge':'https://westminster-20261114-v1-2-gtstudy.surge.sh/',
- 'Vercel':'https://westminster-20261022-v1-gtstudy.vercel.app/'
+ 'Vercel':'https://westminster-20261114-v1-2-gtstudy.vercel.app/'
 }
 def check(item):
  name,base=item;result={'platform':name,'url':base,'checks':[]}

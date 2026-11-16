@@ -4,13 +4,15 @@
 
 创建于 2026-10-21，首版发布于 2026-10-22，历史地图与阅读优化版发布于 2026-10-23（Asia/Taipei）。仓库日期保留项目启动日；原有域名继续使用，页面与版本标记显示最新版本。
 
+新版以 2026-11-14 为版本日期，2026-11-16 完成发布。
+
 ## 三个公开阅读地址
 
 | 平台 | 地址 |
 |---|---|
 | GitHub Pages | https://07-je-gt-love-personal-20260918.github.io/westminster-20261021-v1-GTstudy/ |
 | Surge | https://westminster-20261114-v1-2-gtstudy.surge.sh |
-| Vercel | https://westminster-20261022-v1-gtstudy.vercel.app |
+| Vercel | https://westminster-20261114-v1-2-gtstudy.vercel.app |
 
 v1.1版本命名入口：Surge `https://westminster-20261023-v1-1-gtstudy.surge.sh`。现有地址继续兼容，恢复源码以Git标签为准。
 
